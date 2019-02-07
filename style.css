@@ -1,0 +1,49 @@
+body {
+    color:black; 
+    background:blanchedalmond;
+    font-family: Tahoma, Geneva, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+h1.heading {
+    color: deeppink;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: palevioletred;
+    animation-duration: 4s;
+    animation-delay: 2s;
+}
+
+h6 {
+    color:palevioletred;
+}
+
+#firstimage {
+    width: 600px;
+    height:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bearimage {
+    width: 100px;
+    height:100px;
+   
+}
+
+#barbie {
+    width: 400px;
+    height:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
