@@ -51,3 +51,10 @@ h6 {
     margin-right: auto;
 }
 
+table, th, td {
+    border: 1px solid black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+  }
+
